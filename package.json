@@ -1,0 +1,11 @@
+{
+  "name": "react-typescript-crud-generator",
+  "version": "1.0.0",
+  "description": "React (TypeScript) CRUD Generator",
+  "main": "index.js",
+  "author": "Sarah Sunday",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.0.0"
+  }
+}
