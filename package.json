@@ -6,6 +6,6 @@
   "author": "Sarah Sunday",
   "license": "MIT",
   "dependencies": {
-    "commander": "^4.0.0"
+    "commander": "^5.1.0"
   }
 }
