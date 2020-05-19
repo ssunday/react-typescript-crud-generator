@@ -20,6 +20,7 @@ src/
   characters/
     Character.ts
     CharacterRoutes.tsx
+    CharacterLayout.tsx
     EditCharacter.tsx
     IndexCharacter.tsx
     NewCharacter.tsx
@@ -32,6 +33,7 @@ spec/
   characters/
     IndexCharacter.spec.tsx
     ShowCharacter.spec.tsx
+    EditCharacter.spec.tsx
 ```
 
 ## Setup
@@ -51,8 +53,10 @@ Options:
 
 - [ ] Add scaffolding for shared forms between new/edit forms
 - [ ] Optionally exclude certain directories?
-- [ ] Custom layouts per resource?
+- [X] Custom layouts per resource?
 - [ ] Distribute via NPM
+- [ ] Remove Enzyme references
+- [ ] Router Specs
 
 ## Other Authors/Contributors
 

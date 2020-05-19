@@ -98,6 +98,10 @@ function renderTemplate(file) {
     template: 'src/routes.tsx'
   },
   {
+    path: constructFilePath('Layout.tsx'),
+    template: 'src/layout.tsx'
+  },
+  {
     path: constructFilePath('.ts'),
     template: 'src/type.ts'
   },
