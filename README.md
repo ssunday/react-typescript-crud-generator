@@ -9,7 +9,6 @@ This project was made because React/Typescript is a mess of ideas and having som
 - React with Hooks
 - React Router 5+
 - Jest
-- Enzyme
 
 ## Layout
 
@@ -52,10 +51,9 @@ Options:
 ## TODO
 
 - [ ] Add scaffolding for shared forms between new/edit forms
-- [ ] Optionally exclude certain directories?
 - [X] Custom layouts per resource?
 - [ ] Distribute via NPM
-- [ ] Remove Enzyme references
+- [x] Remove Enzyme references
 - [ ] Router Specs
 
 ## Other Authors/Contributors
