@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Sarah Sunday",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssunday/react-typescript-crud-generator.git"
+  },
+  "homepage": "https://github.com/ssunday/react-typescript-crud-generator#readme",
   "dependencies": {
     "commander": "^6.0.0"
   }
